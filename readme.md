@@ -34,11 +34,13 @@ A graphical user interface (GUI) tool built using Python and Tkinter for visuali
 ├── README.md # This file
 
 
+
+
 ---
 
 ## 📋 Usage
 
- 1. Prepare your JSON data
+### 1. Prepare your JSON data
 Ensure your `data.json` file is in the following format:
 
 ```json
@@ -60,25 +62,18 @@ Ensure your `data.json` file is in the following format:
     ...
   ]
 }
-2. Run the App
-bash
-Copy
-Edit
-python main.py
-3. Choose an Operation
+```
+### 2. Run the App 
+  python main.py
+### 3. Choose an Operation
 Select one of the four operations using the radio buttons.
-
 If using friend/page suggestion, enter a valid User ID before clicking Execute.
-
 Results will be shown in the output area.
 
 🛠️ Technologies Used
 Python 3
-
 Tkinter for GUI
-
 JSON for data input/output
 
+### 🙌 Author - Developed with 💡 and 🐍 by Faraz
 
-🙌 Author
-Developed with 💡 and 🐍 by Faraz
